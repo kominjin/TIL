@@ -1,4 +1,3 @@
 # TIL
 
-Today I learned
-TT
+Today I learned omg
