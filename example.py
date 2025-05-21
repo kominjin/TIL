@@ -17,3 +17,4 @@ print( f(x)+g(x)+f(g(x))+g(f(x))))
  def f(x) :
      return
 
+너무옛 
