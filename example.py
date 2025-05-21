@@ -16,3 +16,4 @@ x=2
 print( f(x)+g(x)+f(g(x))+g(f(x))))
  def f(x) :
      return
+아 하나도 모르겠네 
